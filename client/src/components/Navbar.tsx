@@ -95,7 +95,12 @@ function Navbar() {
           </a>
         </div>
 
-        <Button className="hidden md:block">Get in Touch</Button>
+        <Button
+  className="hidden md:block"
+  onClick={() => handleNavClick("#contact")}
+>
+  Get in Touch
+</Button>
       </div>
     </nav>
   );
