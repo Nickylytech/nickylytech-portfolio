@@ -25,7 +25,7 @@ function Hero() {
             <p className="text-lg md:text-xl text-muted-foreground mb-10 max-w-2xl">
               I build real-world web applications, tools, and platforms. Focused on practical systems, automation, and scalable solutions.
             </p>
-          <div className="flex gap-4 flex-wrap">
+          <a href= "/projects">
             <Button size="lg" className="rounded-lg shadow-lg shadow-cyan-500/20 hover:shadow-xl hover:shadow-cyan-500/30 transition-all duration-300">
               View Projects
             </Button>
