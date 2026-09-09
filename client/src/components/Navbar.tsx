@@ -49,7 +49,7 @@ function Navbar() {
           <img
             src="/nickylytech-logo.png"
             alt="Nickylytech"
-            className="h-8 w-auto object contain"
+            className="h-15 w-auto object contain"
           />
         </a>
 
