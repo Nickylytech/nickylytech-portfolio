@@ -45,13 +45,13 @@ function Navbar() {
   return (
     <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur border-b border-border shadow-lg">
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-        <a href="/" className="flex items-center">
-          <img
-            src="/nickylytech-logo.png"
-            alt="Nickylytech"
-            className="h-12 w-auto object contain"
-          />
-        </a>
+      <a
+        href="/"
+        className="text-xl font-bold tracking-wide transition-transform duration-300 hover:scale-105"
+      >
+        <span className="text-white">NICKYLY</span>
+        <span className="logo-tech">TECH</span>
+      </a>
 
         <button
           className="md:hidden flex flex-col gap-1.5"
