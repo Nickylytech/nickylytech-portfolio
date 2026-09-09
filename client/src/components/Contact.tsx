@@ -122,10 +122,10 @@ Something went wrong. Please try again or contact me directly
 
       <div className="flex flex-col sm:flex-row gap-8">
         <a
-          href="mailto:Nickylytech18@gmail.com"
+          href="mailto:Nickylytech@yahoo.com"
           className="text-muted-foreground hover:text-cyan-400 transition-colors duration-300"
         >
-          Email: Nickylytech18@gmail.com
+          Email: Nickylytech@yahoo.com
         </a>
 
         <a
