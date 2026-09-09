@@ -127,6 +127,20 @@ Something went wrong. Please try again or contact me directly
         >
           Email: Nickylytech@yahoo.com
         </a>
+        
+        <a 
+          href="tel:+233546710369" className="text-muted-foreground hover:text-cyan-400 transition-colors duration-300"
+        >
+          Phone: +233 54 671 0369
+        </a>
+
+        <a href="https://wa.me/233546710369" 
+          target="_blank" 
+          rel="noopener noreferrer" 
+          className="text-muted-foreground hover:text-cyan-400 transition-colors duration-300"
+          > 
+          WhatsApp: +233 54 671 0369
+      </a>
 
         <a
           href="https://twitter.com/Nickylytech"
